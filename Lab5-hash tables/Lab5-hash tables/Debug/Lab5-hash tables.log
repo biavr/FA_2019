@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Bee VisualStudio\Lab5-hash tables\Lab5-hash tables\Source.cpp(36): warning C4715: 'hash_insert': not all control paths return a value
+E:\Bee VisualStudio\Lab5-hash tables\Lab5-hash tables\Source.cpp(57): warning C4715: 'hash_insert_demo': not all control paths return a value
+  Lab5-hash tables.vcxproj -> E:\Bee VisualStudio\Lab5-hash tables\Debug\Lab5-hash tables.exe

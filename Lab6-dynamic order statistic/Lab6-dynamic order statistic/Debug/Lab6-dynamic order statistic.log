@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Bee VisualStudio\Lab6-dynamic order statistic\Lab6-dynamic order statistic\Source.cpp(376,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab6-dynamic order statistic.vcxproj -> E:\Bee VisualStudio\Lab6-dynamic order statistic\Debug\Lab6-dynamic order statistic.exe

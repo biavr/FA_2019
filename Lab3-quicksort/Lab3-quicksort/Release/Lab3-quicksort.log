@@ -1,0 +1,8 @@
+﻿  Source.cpp
+E:\Bee VisualStudio\Lab3-quicksort\Lab3-quicksort\Source.cpp(113,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 515 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lab3-quicksort.vcxproj -> E:\Bee VisualStudio\Lab3-quicksort\Release\Lab3-quicksort.exe

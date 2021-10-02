@@ -1,0 +1,8 @@
+﻿  Source.cpp
+E:\Bee VisualStudio\Lab5-hash tables(pretty table)\Lab5-hash tables(pretty table)\Source.cpp(148,6): warning C4101: 'x': unreferenced local variable
+E:\Bee VisualStudio\Lab5-hash tables(pretty table)\Lab5-hash tables(pretty table)\Source.cpp(267,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Bee VisualStudio\Lab5-hash tables(pretty table)\Lab5-hash tables(pretty table)\Source.cpp(300,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Bee VisualStudio\Lab5-hash tables(pretty table)\Lab5-hash tables(pretty table)\Source.cpp(308,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Bee VisualStudio\Lab5-hash tables(pretty table)\Lab5-hash tables(pretty table)\Source.cpp(80): warning C4715: 'hash_insert': not all control paths return a value
+E:\Bee VisualStudio\Lab5-hash tables(pretty table)\Lab5-hash tables(pretty table)\Source.cpp(119): warning C4715: 'hash_insert_demo': not all control paths return a value
+  Lab5-hash tables(pretty table).vcxproj -> E:\Bee VisualStudio\Lab5-hash tables(pretty table)\Debug\Lab5-hash tables(pretty table).exe

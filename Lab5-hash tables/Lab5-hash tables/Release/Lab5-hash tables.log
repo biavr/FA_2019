@@ -1,0 +1,11 @@
+﻿  Source.cpp
+E:\Bee VisualStudio\Lab5-hash tables\Lab5-hash tables\Source.cpp(140,6): warning C4101: 'x': unreferenced local variable
+E:\Bee VisualStudio\Lab5-hash tables\Lab5-hash tables\Source.cpp(259,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Bee VisualStudio\Lab5-hash tables\Lab5-hash tables\Source.cpp(292,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Bee VisualStudio\Lab5-hash tables\Lab5-hash tables\Source.cpp(300,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Finished generating code
+  0 of 70 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Lab5-hash tables.vcxproj -> E:\Bee VisualStudio\Lab5-hash tables\Release\Lab5-hash tables.exe
